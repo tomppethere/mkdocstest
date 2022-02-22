@@ -1,6 +1,0 @@
-site_name: DC intra
-dev_addr: 10.20.10.35:7999
-nav:
-    - Home: index.md
-    - About: about.md
-theme: windmill-dark
